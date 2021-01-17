@@ -1,3 +1,3 @@
 # Design Pattern Practice in JAVA
 
-![shot1](img/bridge.png)
+![shot1](img/composite.png)
